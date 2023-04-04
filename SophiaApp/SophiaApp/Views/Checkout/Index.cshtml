@@ -1,0 +1,156 @@
+﻿@{
+    ViewData["Title"] = "Checkout";
+}
+<main>
+    <section id="breadcrumb-area">
+        <div class="container">
+            <a asp-controller="Checkout" asp-action="Index">Checkout</a>
+            <span>
+                <a asp-controller="Home" asp-action="Index">Home / </a>
+                <a asp-controller="Checkout" asp-action="Index"> Checkout</a>
+            </span>
+        </div>
+        <hr>
+    </section>
+    <section id="billing-area">
+        <div class="container">
+            <div class="billing-details">
+                <div class="row">
+                    <div class="col-lg-7">
+                        <h2>Billing Details</h2>
+                        <form>
+                            <div class="fullname-area">
+                                <div class="group inputs">
+                                    <input required type="text">
+                                    <span class="bar"></span>
+                                    <label>First name (required) *</label>
+                                    <span class="validation">Please enter a valid message</span>
+                                </div>
+
+                                <div class="group inputs">
+                                    <input required type="text">
+                                    <span class="bar"></span>
+                                    <label>Last name (required) *</label>
+                                    <span class="validation">Please enter a valid message</span>
+                                </div>
+                            </div>
+
+
+                            <div class="group inputs">
+                                <input required type="text">
+                                <span class="bar"></span>
+                                <label>Company name (optional)</label>
+                                <span class="validation">Please enter a valid message</span>
+                            </div>
+                            <div class="group inputs">
+                                <input required type="text">
+                                <span class="bar"></span>
+                                <label>Address</label>
+                                <span class="validation">Please enter a valid message</span>
+                            </div>
+
+                            <div class="group inputs">
+                                <input required type="text">
+                                <span class="bar"></span>
+                                <label>Town/city</label>
+                                <span class="validation">Please enter a valid message</span>
+                            </div>
+
+                            <div class="wrapper">
+                                <div class="group inputs">
+                                    <input required type="text">
+                                    <span class="bar"></span>
+                                    <label>State / Country (required)</label>
+                                    <span class="validation">Please enter a valid message</span>
+                                </div>
+                                <div class="group inputs">
+                                    <input required type="text">
+                                    <span class="bar"></span>
+                                    <label>Postcode / zip (required)</label>
+                                    <span class="validation">Please enter a valid message</span>
+                                </div>
+                                <div class="group inputs">
+                                    <input required type="text">
+                                    <span class="bar"></span>
+                                    <label>Email Address (required)</label>
+                                    <span class="validation">Please enter a valid message</span>
+                                </div>
+                                <div class="group inputs">
+                                    <input required type="text">
+                                    <span class="bar"></span>
+                                    <label>Phone (required)</label>
+                                    <span class="validation">Please enter a valid message</span>
+                                </div>
+                            </div>
+                            <div class="add-info">
+                                <h3>Additional information</h3>
+                                <p class="text-muted">Order notes (optional)</p>
+                            </div>
+
+                            <div class="group textarea">
+                                <textarea></textarea>
+                                <span class="bar"></span>
+                                <label>Post content</label>
+                            </div>
+
+                            <button type="submit">Submit Review</button>
+                        </form>
+                    </div>
+                    <div class="col-lg-5">
+                        <div class="order">
+                            <div class="title">
+                                Product
+                                <span>Total</span>
+                            </div>
+                            <ul class="ul">
+                                <div class="mesagge">
+                                    There are no products in cart
+                                </div>
+                            </ul>
+                            <ul class="total">
+                                <li>
+                                    Subtotal
+                                    <span>$0.00</span>
+                                </li>
+                                <li class="d-flex align-items-center justify-content-between">
+                                    Shipping
+                                    <div class="radio-btns">
+                                        <div class="d-flex align-items-center justify-content-between mt-2">
+                                            <input type="radio" name="an">
+                                            <label for="">Create an account</label>
+                                        </div>
+                                        <div>
+                                            <input type="radio" name="an">
+                                            <label for="">Flat Rate</label>
+                                        </div>
+
+
+                                    </div>
+                                </li>
+                            </ul>
+                            <ul class="total">
+                                <li>
+                                    Total
+                                    <span>$0.00</span>
+                                </li>
+                            </ul>
+                            <div class="payment">
+                                <input type="radio" name="an">
+                                <label for="">Direct Bank Transfer</label>
+                                <div class="bottom">
+                                    <input type="radio" name="an">
+                                    <label for="">PayPal</label>
+                                </div>
+                            </div>
+                            <button>PLACE ORDER</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</main>
+@section Scripts {
+    <script src="../assets/js/checkout.js"></script>
+}

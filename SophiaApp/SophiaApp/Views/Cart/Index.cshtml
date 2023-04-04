@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "Cart";
+}
+<main>
+    <section id="breadcrumb-area">
+        <div class="container">
+            <a asp-controller="Cart" asp-action="Index">Cart</a>
+            <span>
+                <a asp-controller="Home" asp-action="Index">Home / </a>
+                <a asp-controller="Cart" asp-action="Index">Cart</a>
+            </span>
+        </div>
+        <hr>
+    </section>
+    <section id="main">
+        <div class="container">
+            <div class="scroll-table-area">
+                <div class="table-area d-none">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th scope="col">Product</th>
+                                <th scope="col">Name </th>
+                                <th scope="col">Price</th>
+                                <th scope="col">Quantity</th>
+                                <th scope="col">Total</th>
+                                <th scope="col">Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+                    <div class="footer d-flex align-items-center justify-content-between">
+                        <a asp-controller="Home" asp-action="Index"> <button>Continue Shopping</button> </a>
+                        <div class="footer-right">
+                            <span class="total-price"> </span>
+                            <a asp-controller="Checkout" asp-action="Index"><button class="checkout">Proceed To Checkout</button> </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="msg">
+                <div class="empty-msg">
+                    <p>YOU HAVE NO ITEMS IN YOUR SHOPPING CART.</p>
+                </div>
+                <a asp-controller="Home" asp-action="Index"><button>Continue Shopping</button></a>
+            </div>
+        </div>
+    </section>
+</main>
+@section Scripts {
+    <script src="../assets/js/basket.js"></script>
+}

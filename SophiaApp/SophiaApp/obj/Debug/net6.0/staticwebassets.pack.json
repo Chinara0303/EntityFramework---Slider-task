@@ -1,0 +1,421 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SophiaApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SophiaApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\scss\\components\\_about.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\scss\\components\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\scss\\components\\_account.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\scss\\components\\_account.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\scss\\components\\_basket.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\scss\\components\\_basket.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\scss\\components\\_blog.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\scss\\components\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\scss\\components\\_cart.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\scss\\components\\_cart.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\scss\\components\\_checkout.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\scss\\components\\_checkout.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\scss\\components\\_contact.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\scss\\components\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\scss\\components\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\scss\\components\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\scss\\components\\_form.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\scss\\components\\_form.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\scss\\components\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\scss\\components\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\scss\\components\\_main.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\scss\\components\\_main.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\scss\\components\\_productDetail.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\scss\\components\\_productDetail.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\scss\\components\\_reset.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\scss\\components\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\scss\\components\\_responsive.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\scss\\components\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\scss\\components\\_wishlist.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\scss\\components\\_wishlist.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\scss\\partials\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\scss\\partials\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\scss\\partials\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\scss\\partials\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\.gitignore",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\CONTRIBUTING.markdown",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\CONTRIBUTING.markdown"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\ISSUE_TEMPLATE.md",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\ISSUE_TEMPLATE.md"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\LICENSE",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\Makefile",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\README.markdown",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\README.markdown"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\bower.json",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\component.json",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\component.json"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\index.html",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\package.json",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\slick.jquery.json",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\slick.jquery.json"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\config.rb"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\slick-theme.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\slick-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\slick.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\slick.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\slick.less"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-slider\\slick-1.8.1\\slick\\slick.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\css\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\about-page\\aboutUs.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-page\\aboutUs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\about-page\\t1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-page\\t1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\about-page\\t2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-page\\t2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\about-page\\t3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-page\\t3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\about-page\\t4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-page\\t4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\banners\\cameras.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banners\\cameras.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\banners\\laptop.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banners\\laptop.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\banners\\laptop2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banners\\laptop2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\banners\\phone.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banners\\phone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\blog\\b1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\flags\\en.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\en.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\flags\\fr.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\fr.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\flags\\gr.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\gr.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\flags\\ru.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ru.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\flags\\tr.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\tr.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\logo\\logo-02-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-02-01.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\logo\\logo-white.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\products\\Photocamera1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Photocamera1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\products\\Photocamera2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Photocamera2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\products\\Photocamera3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Photocamera3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\products\\Photocamera4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Photocamera4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\products\\Photocamera5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Photocamera5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\products\\headphone1 (1).png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\headphone1 (1).png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\products\\headphone1 (2).png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\headphone1 (2).png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\products\\headphone1 (3).png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\headphone1 (3).png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\products\\headphone1 (4).png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\headphone1 (4).png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\products\\headphone1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\headphone1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\products\\laptop (1).png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\laptop (1).png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\products\\laptop (2).png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\laptop (2).png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\products\\laptop (3).png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\laptop (3).png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\products\\laptop (4).png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\laptop (4).png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\products\\laptop (5).png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\laptop (5).png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\products\\laptop.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\laptop.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\products\\phone1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\phone1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\products\\phone2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\phone2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\products\\phone3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\phone3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\reviews\\avatar-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\reviews\\avatar-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\reviews\\avatar-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\reviews\\avatar-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\reviews\\avatar-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\reviews\\avatar-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\slider-images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\slider-images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-images\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\slider-images\\banner3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-images\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\slider-images\\banner4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-images\\banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\images\\slider-images\\banner5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-images\\banner5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\js\\basket.js",
+      "PackagePath": "staticwebassets\\assets\\js\\basket.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\js\\checkout.js",
+      "PackagePath": "staticwebassets\\assets\\js\\checkout.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\js\\common.js",
+      "PackagePath": "staticwebassets\\assets\\js\\common.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\js\\form.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\js\\home.js",
+      "PackagePath": "staticwebassets\\assets\\js\\home.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\js\\productsdetail.js",
+      "PackagePath": "staticwebassets\\assets\\js\\productsdetail.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\ASP.NET\\SophiaApp\\SophiaApp\\wwwroot\\assets\\js\\wishlist.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wishlist.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SophiaApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SophiaApp.props",
+      "PackagePath": "build\\SophiaApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SophiaApp.props",
+      "PackagePath": "buildMultiTargeting\\SophiaApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SophiaApp.props",
+      "PackagePath": "buildTransitive\\SophiaApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
